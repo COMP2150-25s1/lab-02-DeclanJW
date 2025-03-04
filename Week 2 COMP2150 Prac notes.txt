@@ -40,11 +40,21 @@ The goal of my level is to create a challenging yet fair stage that focuses on p
 
 Player Questions
 
-Were there any stage elements that you feel could be improved upon?
+Was the stage difficult enough to feel rewarding when the player completes it? (Achievement / Mastery)
 
-Are there any elements in the stage that feel unfair?
 
-Should a element of "choose your difficulty", such as a shorter but much more difficult path be introduced for players seeking a challenge?
+Do you think the 1-block platform jumps should be removed or changed due to the physics engine 'glitching' or acting unpredictably when landing on a single block. (Mastery / Design)
+
+
+Is the level of difficulty relatively consistent throughout the stage? If not, what do you believe could be modified to achieve this goal? (Achievement / Design)
+
+
+Through feedback, I have decided to make the "easy" parts of my levels more difficult
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Are there any specific elements in the stage that feel unfair or that can be improved upon? (Design)
+
+Should a element of "choose your difficulty", such as a shorter but much more difficult path be introduced for players seeking a challenge? (Challenge / Completion / Mastery)
 
 
 
