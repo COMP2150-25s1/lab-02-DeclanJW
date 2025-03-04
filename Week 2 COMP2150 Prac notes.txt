@@ -1,0 +1,52 @@
+Week 2 COMP2150 Prac
+
+Does the player know where they are going?
+Yes, The player is forced forced to go up, as there are no other options and the scene is closed off, so the player can't jump off to test other options.
+At the end of the stage, a down arrow is used to represent where the player is supposed to jump.
+
+Are there any "leaps of faith" or other times the player can't see where they are jumping to?
+At the end of the stage there is a "leap of faith", but it is clearly marked with an arrow so it doesn't include elements of unfair game design.
+
+Are all the jumps or other necessary movements reasonably possible? If not, why?
+Yes, all jumps are possible, and no exploits or glitches need to be used to complete the short level.
+
+
+Are there jumps that can't be made?
+All jumps can be made without issues
+
+Are there any opportunties for the player to get stuck and unable to progress?
+Yes, upon playing, I realized the raised platform at the end can make it impossible to progress or escape if the player falls at a certain point.
+
+Can the player always see what they need to see? Does the camera ever "cut off" important information?
+As said before, the player can see all important information, an arrow is used to showcase the only 'blind' section.
+
+Are there any other mechanical issues with your level that prevent the player from progressing, or cause the system to act in unexpected ways?
+The only "mechanical issue" in the level is to do with the player controls, which can cause the player model to clip into the sides of objects, acting unpredictably, this cannot be changed as it is what's provided.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Notes:
+Changed end of stage to prevent the player from getting stuck.
+
+Created a proper Arrow to better clarify where the player is supposed to "leap of faith"
+
+For some reason the created arrow is black in-game when I have changed it to be red. This isn't fixed by changing layers or even creating new layers just for the arrow.
+
+Fixed Arrow with help from TA
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The goal of my level is to create a challenging yet fair stage that focuses on precise movement and timing.
+
+Player Questions
+
+Were there any stage elements that you feel could be improved upon?
+
+Are there any elements in the stage that feel unfair?
+
+Should a element of "choose your difficulty", such as a shorter but much more difficult path be introduced for players seeking a challenge?
+
+
+
+
+
